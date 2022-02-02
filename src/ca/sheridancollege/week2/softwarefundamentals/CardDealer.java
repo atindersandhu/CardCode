@@ -17,5 +17,6 @@ public class CardDealer
         nineClubs.setSuit("diamonds");
         
         Card atinderPalSingh = new Card("Spade", 7);
+         System.out.println(atinderPalSingh.getSuit() + " " + atinderPalSingh.getValue());
     }
 }
