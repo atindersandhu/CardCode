@@ -18,5 +18,7 @@ public class CardDealer
         
         Card atinderPalSingh = new Card("Spade", 7);
          System.out.println(atinderPalSingh.getSuit() + " " + atinderPalSingh.getValue());
+         
+         Card atinderPalSingh2 = new Card("Ace", 5);
     }
 }
